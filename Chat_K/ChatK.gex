@@ -1,0 +1,10 @@
+[General]
+Name=ChatK
+Project=1
+[Classes]
+Count=5
+Class0="TChatInfo","","Unit1","10","d:\Temp\Chat_K\Unit1.pas"
+Class1="TChatForm","TForm","Unit1","19","d:\Temp\Chat_K\Unit1.pas"
+Class2="TAuthDialog","TForm","dlg_auth","10","d:\Temp\Chat_K\dlg_auth.pas"
+Class3="TDM","TDataModule","UtilsForm","10","d:\Temp\Chat_K\UtilsForm.pas"
+Class4="TAuthForm","TForm","Auth","10","d:\Temp\Chat_K\Auth.pas"
